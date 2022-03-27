@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Hosted url : https://inspiring-kelpie-236190.netlify.app/
 
 In the project directory, you can run:
 
